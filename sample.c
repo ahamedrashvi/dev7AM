@@ -5,10 +5,10 @@ code-X
 code-y
 
 
+code-Z
 
 
-
-void code-A
+code-A
 {
   ==== code-A ===
   ==== code-A ===
