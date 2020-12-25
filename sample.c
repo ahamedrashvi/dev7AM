@@ -6,6 +6,11 @@ void code-A
   ==== code-A ===
 }
 
+void code-B
+{
+  ==== code _B ===
+	   
+}
 
 void MainCode
 {
