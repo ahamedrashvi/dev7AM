@@ -1,3 +1,28 @@
+void devops
+{
+  .... new code.....
+  .... new code.....
+  .... new code.....
+  .... new code.....
+  .... new code.....
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 void MainCode
 {
    .... Main Code ....
