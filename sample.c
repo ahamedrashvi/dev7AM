@@ -1,3 +1,12 @@
+void code-A
+{
+  ==== code-A ===
+  ==== code-A ===
+  ==== code-A ===
+  ==== code-A ===
+}
+
+
 void MainCode
 {
    .... Main Code ....
