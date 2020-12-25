@@ -1,3 +1,19 @@
+
+ class Bank
+ {
+   void Deposite()
+   {
+     bal=bal+amt
+   }
+ }
+
+
+
+
+
+
+
+
 class Arith-Opr
 {
   void ADD()
