@@ -5,6 +5,11 @@
    {
      bal=bal+amt
    }
+
+   void Withdraw()
+   {
+     bal=bal-amt
+   }
  }
 
 
